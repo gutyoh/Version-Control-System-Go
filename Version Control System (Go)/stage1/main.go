@@ -1,5 +1,15 @@
 package main
 
+/*
+[Version Control System - Stage 1/4: Help page](https://hyperskill.org/projects/177/stages/909/implement)
+-------------------------------------------------------------------------------
+[String formatting](https://hyperskill.org/learn/step/16860)
+[Control statements](https://hyperskill.org/learn/step/16235)
+[Working with slices](https://hyperskill.org/learn/step/15935)
+[Operations with maps](https://hyperskill.org/learn/step/17206)
+[Command-line arguments and flags](https://hyperskill.org/learn/step/17863)
+*/
+
 import (
 	"flag"
 	"fmt"

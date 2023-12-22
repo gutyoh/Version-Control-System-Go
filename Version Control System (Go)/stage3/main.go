@@ -1,5 +1,15 @@
 package main
 
+/*
+[Version Control System - Stage 3/4: Log & commit](https://hyperskill.org/projects/177/stages/911/implement)
+-------------------------------------------------------------------------------
+[Getting file attributes](https://hyperskill.org/learn/step/18851)
+[Working with file paths](https://hyperskill.org/learn/step/18961)
+[Hashing strings and files](https://hyperskill.org/learn/step/19064)
+[Debugging Go code in GoLand](https://hyperskill.org/learn/step/23118)
+[Working with time](https://hyperskill.org/learn/step/19297)
+*/
+
 import (
 	"bufio"
 	"crypto/sha256"

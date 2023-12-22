@@ -1,5 +1,21 @@
 package main
 
+/*
+[Version Control System - Stage 2/4: Add & config](https://hyperskill.org/projects/177/stages/910/implement)
+-------------------------------------------------------------------------------
+[Operations with strings](https://hyperskill.org/learn/step/18548)
+[Advanced Input](https://hyperskill.org/learn/step/18567)
+[Errors](https://hyperskill.org/learn/step/16774)
+[Reading files](https://hyperskill.org/learn/step/16702)
+[Writing data to files](https://hyperskill.org/learn/step/17627)
+[Anonymous functions and Closures](https://hyperskill.org/learn/step/22032)
+[Functional decomposition](https://hyperskill.org/learn/step/17506)
+[Public and private scopes](https://hyperskill.org/learn/step/17514)
+[Advanced usage of structs](https://hyperskill.org/learn/step/17498)
+[Methods](https://hyperskill.org/learn/step/17739)
+[Debugging Go code](https://hyperskill.org/learn/step/23076)
+*/
+
 import (
 	"bufio"
 	"flag"

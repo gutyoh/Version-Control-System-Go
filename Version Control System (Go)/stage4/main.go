@@ -1,5 +1,11 @@
 package main
 
+/*
+[Version Control System - Stage 4/4: Log & commit](https://hyperskill.org/projects/177/stages/912/implement)
+-------------------------------------------------------------------------------
+NO TOPIC PREREQUISITES REQUIRED!
+*/
+
 import (
 	"bufio"
 	"crypto/sha256"
